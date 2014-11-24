@@ -1,8 +1,0 @@
-hola git
--primer cambio
--segundo cambio
--tercer cambio
--cuarto cambio
--quinta cambio
--sexto cambio
-
