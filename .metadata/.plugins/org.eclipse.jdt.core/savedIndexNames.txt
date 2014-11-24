@@ -1,0 +1,22 @@
+INDEX VERSION 1.126+D:\Proyectos_Varios\eclipse_workspace\SocketsTcpUdp\.metadata\.plugins\org.eclipse.jdt.core
+688721028.index
+612421874.index
+1737420916.index
+4041092966.index
+172625779.index
+3974580528.index
+1995173708.index
+3065916431.index
+30765161.index
+1299022128.index
+2101634781.index
+3133528496.index
+4108727661.index
+163172794.index
+1498219845.index
+1115467115.index
+305854171.index
+1697886153.index
+3877609021.index
+4155206848.index
+3704752412.index
